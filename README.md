@@ -254,9 +254,6 @@ Every review returns a JSON object with exactly these fields:
 ## Project Structure
 
 ```
-.
-├── AGENTS.md                         # Rules for AI coding tools + transcript logging
-├── problem_statement.md              # Full task description and I/O schema
 ├── README.md                         # You are here
 ├── code/                             # Build your solution here
 │   ├── main.py                       # Suggested terminal entry point
